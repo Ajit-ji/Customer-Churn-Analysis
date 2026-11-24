@@ -97,7 +97,7 @@ Open `notebooks/Customer_Churn_Analysis.ipynb` and run the cells.
 
 **Your Name**
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/Ajit-ji
 
 ---
 
